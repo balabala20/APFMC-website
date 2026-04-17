@@ -1,0 +1,32 @@
+# Node
+node_modules/
+
+# Environment
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Runtime
+pids/
+*.pid
+
+# Coverage
+coverage/
+
+# Temp
+tmp/
+
+# PM2
+pm2.log
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
